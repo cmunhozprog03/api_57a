@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22641626-5ec1-47ec-bc41-70439c282607" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Resources/ProductCollection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Resources/ProductResource.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/factories/ProductFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/seeds/ProductTableSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/ProductController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/UserController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +180,7 @@
       <updated>1601380425866</updated>
       <workItem from="1601380427141" duration="92000" />
       <workItem from="1601380611514" duration="163000" />
-      <workItem from="1601380786172" duration="18111000" />
+      <workItem from="1601380786172" duration="21309000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 16 Completa">
       <created>1601396346074</created>
@@ -197,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601396346074</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aula 21 Completa">
+      <created>1601407098122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601407098122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +216,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Aula 16 Completa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 16 Completa" />
+    <MESSAGE value="Aula 21 Completa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 21 Completa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="247" key="#Composer" timestamp="1601380476418">
@@ -240,5 +240,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1321" height="181" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601380775536" />
+    <state x="274" y="100" key="Vcs.Push.Dialog.v2" timestamp="1601407100391">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="274" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1601407100391" />
   </component>
 </project>
