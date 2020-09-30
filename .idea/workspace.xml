@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22641626-5ec1-47ec-bc41-70439c282607" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Providers/Repository/ProductRepository.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/ProductController.php" afterDir="false" />
     </list>
@@ -180,7 +181,7 @@
       <updated>1601380425866</updated>
       <workItem from="1601380427141" duration="92000" />
       <workItem from="1601380611514" duration="163000" />
-      <workItem from="1601380786172" duration="21309000" />
+      <workItem from="1601380786172" duration="28724000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 16 Completa">
       <created>1601396346074</created>
@@ -196,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601407098122</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aula 24 Completa">
+      <created>1601414065672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601414065672</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,13 +225,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Aula 16 Completa" />
     <MESSAGE value="Aula 21 Completa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 21 Completa" />
+    <MESSAGE value="Aula 24 Completa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 24 Completa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="247" key="#Composer" timestamp="1601380476418">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="492" y="247" key="#Composer/0.0.1366.738@0.0.1366.738" timestamp="1601380476418" />
+    <state x="487" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1601416090826">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="487" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1601416090826" />
     <state width="1321" height="181" key="GridCell.Tab.0.bottom" timestamp="1601380775536">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -240,9 +253,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1321" height="181" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601380775536" />
-    <state x="274" y="100" key="Vcs.Push.Dialog.v2" timestamp="1601407100391">
+    <state x="440" y="90" key="NewPhpClassDialog" timestamp="1601415845835">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="274" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1601407100391" />
+    <state x="440" y="90" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1601415845835" />
+    <state x="274" y="100" key="Vcs.Push.Dialog.v2" timestamp="1601414067541">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="274" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1601414067541" />
+    <state x="289" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601416401480">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="289" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1601416401480" />
   </component>
 </project>
